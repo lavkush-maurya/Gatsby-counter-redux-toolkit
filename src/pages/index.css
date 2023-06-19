@@ -1,0 +1,18 @@
+body {
+  background-color: burlywood;
+  text-align: center;
+}
+
+button {
+  background: rgb(232, 81, 0);
+  padding: 15px;
+  border: 1px solid black;
+  margin: 5px;
+  border-radius: 5%;
+}
+button:hover {
+  background: rgb(92, 145, 36);
+  border: 1px solid rgb(240, 162, 36);
+  margin: 5px;
+  border-radius: 5%;
+}
